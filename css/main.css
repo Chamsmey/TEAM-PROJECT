@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 nav{
     display: flex;
     flex-direction: row;
@@ -35,3 +36,13 @@ nav{
     text-decoration: none;
     font-weight: bold;
 }
+=======
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+
+
+>>>>>>> 813accfcb979ace1a22355a1c8565f3fcd7e0186

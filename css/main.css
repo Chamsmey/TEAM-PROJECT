@@ -72,6 +72,9 @@ nav{
     justify-content: center;
     align-items: center;
     margin-top: 30px;
+    box-sizing: border-box;
+    padding: 20px;
+    
 }
 h1{
     font-size: 30px;
@@ -80,7 +83,7 @@ p{
     margin-top: 20px;
 }
 .text{
-    width: 70%;
+    width: 80%;
 }
 .image{
     width:20%;

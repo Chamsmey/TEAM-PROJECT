@@ -6,54 +6,77 @@
 
 nav{
     display: flex;
+    padding-top: 1%;
     flex-direction: row;
-    border: 2px solid rgb(207, 207, 207);
-    height: 10vh;
+    height: 15vh;
+    border-bottom: 2px dashed rgb(138, 138, 138);
 }
-
-.home{
+.btn{
+    color: white;
+    font-size: large;
+    background-color: rgb(172, 0, 143);
+}
+.active{
+    color: white;
+    border-radius: 1.5vh;
+    padding: 10px 25px;
     background-color: rgb(172, 0, 143);
 }
 .partrighttitle{
     display: flex;
-    width: 20%;
+    color: gray;
+    width: 25%;
+    font-size: x-large;
+    font-weight: bold;
     margin-left: 5%;
-    border: 1px solid;
     justify-content: center;
     align-items: center;
 }
 
 .partleftmenu{
     display: flex;
-    width: 80%;
-    border: 1px solid;
+    width: 75%;
 }
 
 .partleftmenu ul{
     display: flex;
-    margin-left: 40%;
-    height: 5vh;
-    margin-top: 2%;
+    margin-left: 25%;
+    height: 6.5vh;
+    margin-top: 3.5%;
 }
 
 .partleftmenu ul li{
     display: flex;
-    margin: 0 5%;
-    border: 1px solid;
+    width: 20vh;
+    margin: 0 1%;
+    border-radius: 1vh;
+    justify-content: center;
+    align-items: center;
 }
 
 .partleftmenu ul li a{
     display: flex;
+    font-size: small;
     text-decoration: none;
+<<<<<<< HEAD
     font-weight: bold;
     border: 1px solid;
+=======
+<<<<<<< HEAD
+>>>>>>> 9bb1fb39e4e62d606f3531e0cff85de08dc03885
 }
 *{
     margin: 0;
     padding: 0;
     font-family: sans-serif;
 }
+=======
+    font-weight: bold;
 
+    border: 1px solid;
+>>>>>>> 8007bdadbed8516670f249000be8e03fce06c506
+
+}
 
 /* Kear---------------------- */
 .container{
@@ -93,8 +116,14 @@ button{
     color: #fff;
     border-radius: 5px;
 
+<<<<<<< HEAD
 }
+=======
+<<<<<<< HEAD
+>>>>>>> 9bb1fb39e4e62d606f3531e0cff85de08dc03885
 
+=======
+>>>>>>> 8007bdadbed8516670f249000be8e03fce06c506
 
 
 
@@ -104,3 +133,57 @@ button{
 /* ---------------------------------------- */
 
 /* Cham------------------------------------ */
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+.card{
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+}
+.child-card{
+    margin-right: 10px;
+    width: 24%;
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+.logo{
+    padding:40px 20px;
+}
+.title{
+    padding:40px 10px;
+}
+.position{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.subtitle{
+    padding-left:20px ;
+    text-transform: uppercase;
+}
+.title h2{
+    text-transform: uppercase;
+}
+footer{
+    box-sizing: border-box;
+    padding:30px 0;
+    width: 100%;
+    background: gray;
+}
+footer .contact{
+    padding: 20px;
+    width: 40%;
+}
+.contact h3,
+.contact p,
+.contact span{
+    padding: 10px;
+    color: #fff;
+    text-align: center;
+}
+>>>>>>> 8007bdadbed8516670f249000be8e03fce06c506
+>>>>>>> 9bb1fb39e4e62d606f3531e0cff85de08dc03885

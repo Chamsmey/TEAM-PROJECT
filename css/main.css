@@ -58,27 +58,12 @@ nav{
     display: flex;
     font-size: small;
     text-decoration: none;
-<<<<<<< HEAD
 }
-*{
-    margin: 0;
-    padding: 0;
-    font-family: sans-serif;
-}
-=======
-    font-weight: bold;
 
-    border: 1px solid;
->>>>>>> 8007bdadbed8516670f249000be8e03fce06c506
-
-}
 
 /* Kear---------------------- */
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 8007bdadbed8516670f249000be8e03fce06c506
 
 
 
@@ -88,8 +73,6 @@ nav{
 /* ---------------------------------------- */
 
 /* Cham------------------------------------ */
-<<<<<<< HEAD
-=======
 .card{
     padding: 10px;
     width: 100%;
@@ -138,4 +121,3 @@ footer .contact{
     color: #fff;
     text-align: center;
 }
->>>>>>> 8007bdadbed8516670f249000be8e03fce06c506

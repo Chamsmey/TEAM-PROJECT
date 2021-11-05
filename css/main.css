@@ -58,11 +58,25 @@ nav{
     display: flex;
     font-size: small;
     text-decoration: none;
+<<<<<<< HEAD
 
     font-weight: bold;
     border: 1px solid;
 
 }
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+=======
+
+    font-weight: bold;
+    border: 1px solid;
+
+}
+>>>>>>> 63769f738bbe3a76a1294355f2c5c6f0a02650b4
 
 
 /* Kear---------------------- */
@@ -93,7 +107,7 @@ p{
     border-radius: 10px;
     width: 100%;
 }
-.btn{
+.button{
     display: flex;
     justify-content: center;
     margin-top: 20px;
@@ -104,6 +118,11 @@ button{
     background-color: purple;
     color: #fff;
     border-radius: 5px;
+<<<<<<< HEAD
+/* ---------------------------------------- */
+
+/* Cham------------------------------------ */
+=======
 
 
 }
@@ -119,6 +138,7 @@ button{
 /* Cham------------------------------------ */
 
 
+>>>>>>> 63769f738bbe3a76a1294355f2c5c6f0a02650b4
 .card{
     padding: 10px;
     width: 100%;
@@ -167,3 +187,7 @@ footer .contact{
     color: #fff;
     text-align: center;
 }
+<<<<<<< HEAD
+
+=======
+>>>>>>> 63769f738bbe3a76a1294355f2c5c6f0a02650b4

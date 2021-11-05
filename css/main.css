@@ -67,12 +67,11 @@ nav{
 
 /* Kear---------------------- */
 .container{
-    width: 90%;
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
     margin-top: 30px;
-
 }
 h1{
     font-size: 30px;
@@ -84,7 +83,7 @@ p{
     width: 70%;
 }
 .image{
-    width:10%;
+    width:20%;
     box-sizing: border-box;
 }
 .image img{

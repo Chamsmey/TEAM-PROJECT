@@ -58,25 +58,17 @@ nav{
     display: flex;
     font-size: small;
     text-decoration: none;
-<<<<<<< HEAD
+
     font-weight: bold;
     border: 1px solid;
-=======
-<<<<<<< HEAD
->>>>>>> 9bb1fb39e4e62d606f3531e0cff85de08dc03885
+
 }
 *{
     margin: 0;
     padding: 0;
     font-family: sans-serif;
 }
-=======
-    font-weight: bold;
 
-    border: 1px solid;
->>>>>>> 8007bdadbed8516670f249000be8e03fce06c506
-
-}
 
 /* Kear---------------------- */
 .container{
@@ -104,7 +96,7 @@ p{
     border-radius: 10px;
     width: 100%;
 }
-.btn{
+.button{
     display: flex;
     justify-content: center;
     margin-top: 20px;
@@ -115,28 +107,9 @@ button{
     background-color: purple;
     color: #fff;
     border-radius: 5px;
-
-<<<<<<< HEAD
-}
-=======
-<<<<<<< HEAD
->>>>>>> 9bb1fb39e4e62d606f3531e0cff85de08dc03885
-
-=======
->>>>>>> 8007bdadbed8516670f249000be8e03fce06c506
-
-
-
-
-
-
 /* ---------------------------------------- */
 
 /* Cham------------------------------------ */
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
 .card{
     padding: 10px;
     width: 100%;
@@ -185,5 +158,4 @@ footer .contact{
     color: #fff;
     text-align: center;
 }
->>>>>>> 8007bdadbed8516670f249000be8e03fce06c506
->>>>>>> 9bb1fb39e4e62d606f3531e0cff85de08dc03885
+

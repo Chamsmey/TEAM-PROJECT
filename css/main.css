@@ -1,9 +1,12 @@
+<<<<<<< HEAD
 *{
     margin: 0;
     padding: 0;
     font-family: sans-serif;
 }
 
+=======
+>>>>>>> 97489fb2a4d0fcec854bd09c1bf8e33355234e7d
 nav{
     display: flex;
     flex-direction: row;
@@ -46,8 +49,30 @@ nav{
     display: flex;
     text-decoration: none;
     font-weight: bold;
+<<<<<<< HEAD
     border: 1px solid;
+=======
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+>>>>>>> 97489fb2a4d0fcec854bd09c1bf8e33355234e7d
 }
 
 
+/* Kear---------------------- */
 
+<<<<<<< HEAD
+=======
+
+
+
+
+
+
+
+/* ---------------------------------------- */
+
+/* Cham------------------------------------ */
+>>>>>>> 97489fb2a4d0fcec854bd09c1bf8e33355234e7d

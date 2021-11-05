@@ -5,6 +5,9 @@
 }
 
 nav{
+    background: #fff;
+    position: sticky;
+    top: 0%;
     display: flex;
     padding-top: 1%;
     flex-direction: row;
@@ -47,20 +50,20 @@ nav{
 
 .partleftmenu ul li{
     display: flex;
-    width: 20vh;
-    margin: 0 1%;
-    border-radius: 1vh;
+  
+   padding: 20px;
+    border-radius: 5px;
     justify-content: center;
     align-items: center;
 }
 
 .partleftmenu ul li a{
+  
     display: flex;
-    font-size: small;
+    font-size: medium;
     text-decoration: none;
-
     font-weight: bold;
-    border: 1px solid;
+   
 
 }
 
@@ -70,12 +73,13 @@ nav{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 30px;
+    padding: 70px 0;
 }
 h1{
     font-size: 30px;
 }
 p{
+    line-height: 2;
     margin-top: 20px;
 }
 .text{
@@ -150,9 +154,8 @@ footer .contact{
     width: 40%;
 }
 .contact h3,
-.contact p,
-.contact span{
-    padding: 10px;
+.contact p{
+    padding: 5px;
     color: #fff;
     text-align: center;
 }

@@ -58,17 +58,27 @@ nav{
     display: flex;
     font-size: small;
     text-decoration: none;
+<<<<<<< HEAD
 }
 *{
     margin: 0;
     padding: 0;
     font-family: sans-serif;
 }
+=======
+    font-weight: bold;
 
+    border: 1px solid;
+>>>>>>> 8007bdadbed8516670f249000be8e03fce06c506
+
+}
 
 /* Kear---------------------- */
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8007bdadbed8516670f249000be8e03fce06c506
 
 
 
@@ -78,3 +88,54 @@ nav{
 /* ---------------------------------------- */
 
 /* Cham------------------------------------ */
+<<<<<<< HEAD
+=======
+.card{
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+}
+.child-card{
+    margin-right: 10px;
+    width: 24%;
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+.logo{
+    padding:40px 20px;
+}
+.title{
+    padding:40px 10px;
+}
+.position{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.subtitle{
+    padding-left:20px ;
+    text-transform: uppercase;
+}
+.title h2{
+    text-transform: uppercase;
+}
+footer{
+    box-sizing: border-box;
+    padding:30px 0;
+    width: 100%;
+    background: gray;
+}
+footer .contact{
+    padding: 20px;
+    width: 40%;
+}
+.contact h3,
+.contact p,
+.contact span{
+    padding: 10px;
+    color: #fff;
+    text-align: center;
+}
+>>>>>>> 8007bdadbed8516670f249000be8e03fce06c506

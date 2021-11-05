@@ -58,11 +58,55 @@ nav{
     display: flex;
     font-size: small;
     text-decoration: none;
+
+    font-weight: bold;
+    border: 1px solid;
+
 }
 
 
 /* Kear---------------------- */
+.container{
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
 
+<<<<<<< HEAD
+=======
+}
+h1{
+    font-size: 30px;
+}
+p{
+    margin-top: 20px;
+}
+.text{
+    width: 70%;
+}
+.image{
+    width:10%;
+    box-sizing: border-box;
+}
+.image img{
+    border-radius: 10px;
+    width: 100%;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+button{
+    padding: 10px 70px;
+    border: none;
+    background-color: purple;
+    color: #fff;
+    border-radius: 5px;
+
+
+}
 
 
 
@@ -73,6 +117,8 @@ nav{
 /* ---------------------------------------- */
 
 /* Cham------------------------------------ */
+
+
 .card{
     padding: 10px;
     width: 100%;

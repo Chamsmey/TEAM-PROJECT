@@ -59,36 +59,18 @@ nav{
     font-size: small;
     text-decoration: none;
 
-
     font-weight: bold;
     border: 1px solid;
 
 }
-*{
-    margin: 0;
-    padding: 0;
-    font-family: sans-serif;
-}
-
-/* =======
-
-    font-weight: bold;
-    border: 1px solid;
-
-}
->>>>>>> 63769f738bbe3a76a1294355f2c5c6f0a02650b4 */
-
 
 /* Kear---------------------- */
 .container{
-    width: 90%;
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
     margin-top: 30px;
-
-/* <<<<<<< HEAD
-======= */
 }
 h1{
     font-size: 30px;
@@ -100,7 +82,7 @@ p{
     width: 70%;
 }
 .image{
-    width:10%;
+    width:20%;
     box-sizing: border-box;
 }
 .image img{
@@ -118,27 +100,14 @@ button{
     background-color: purple;
     color: #fff;
     border-radius: 5px;
-/* <<<<<<< HEAD */
-/* ---------------------------------------- */
-
-/* Cham------------------------------------ */
-/* ======= */
-
-
 }
-
-
-
-
-
-
+/* ---------------------------------------- */
 
 /* ---------------------------------------- */
 
 /* Cham------------------------------------ */
 
 
-/* >>>>>>> 63769f738bbe3a76a1294355f2c5c6f0a02650b4 */
 .card{
     padding: 10px;
     width: 100%;
@@ -187,4 +156,3 @@ footer .contact{
     color: #fff;
     text-align: center;
 }
-/*
